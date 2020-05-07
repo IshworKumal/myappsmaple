@@ -1,2 +1,2 @@
 # MyApp
-This is made for learning
+This repository is for testing
